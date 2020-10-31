@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/marvel/static/css/main.149fd69a.chunk.css",
+    "main.js": "/marvel/static/js/main.6b8c35e1.chunk.js",
+    "main.js.map": "/marvel/static/js/main.6b8c35e1.chunk.js.map",
+    "runtime-main.js": "/marvel/static/js/runtime-main.aac603c2.js",
+    "runtime-main.js.map": "/marvel/static/js/runtime-main.aac603c2.js.map",
+    "static/css/2.24192d93.chunk.css": "/marvel/static/css/2.24192d93.chunk.css",
+    "static/js/2.7b154784.chunk.js": "/marvel/static/js/2.7b154784.chunk.js",
+    "static/js/2.7b154784.chunk.js.map": "/marvel/static/js/2.7b154784.chunk.js.map",
+    "static/js/3.27eff54b.chunk.js": "/marvel/static/js/3.27eff54b.chunk.js",
+    "static/js/3.27eff54b.chunk.js.map": "/marvel/static/js/3.27eff54b.chunk.js.map",
+    "index.html": "/marvel/index.html",
+    "static/css/2.24192d93.chunk.css.map": "/marvel/static/css/2.24192d93.chunk.css.map",
+    "static/css/main.149fd69a.chunk.css.map": "/marvel/static/css/main.149fd69a.chunk.css.map",
+    "static/js/2.7b154784.chunk.js.LICENSE.txt": "/marvel/static/js/2.7b154784.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/marvel/static/media/xmen.294b1d93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aac603c2.js",
+    "static/css/2.24192d93.chunk.css",
+    "static/js/2.7b154784.chunk.js",
+    "static/css/main.149fd69a.chunk.css",
+    "static/js/main.6b8c35e1.chunk.js"
+  ]
+}
